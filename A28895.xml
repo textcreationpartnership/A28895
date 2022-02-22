@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The truth of God cleared, and above the deceite advanced which is proved to be the same that ever was in all genetions [sic] / by one of that number who in scorn are called Quakers, Edw. Bourne.</title>
+            <author>Bourne, Edward, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28895</idno>
+            <idno type="STC">Wing B3848</idno>
+            <idno type="STC">ESTC R1008</idno>
+            <idno type="EEBO-CITATION">12770260</idno>
+            <idno type="OCLC">ocm 12770260</idno>
+            <idno type="VID">93650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 707:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The truth of God cleared, and above the deceite advanced which is proved to be the same that ever was in all genetions [sic] / by one of that number who in scorn are called Quakers, Edw. Bourne.</title>
+                  <author>Bourne, Edward, d. 1708.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93650:1"/>
+            <pb facs="tcp:93650:1"/>
+            <p>THE TRUTH OF GOD CLEARED, And above the DECEITE ADVANCED; Which is proved to be the ſame that ever was in all Gene<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>By one of that number who in ſcorn are called</hi> Quakers, Edw. Bourne.</p>
+            <p>
+               <hi>London.</hi> Printed for <hi>Thomas Sim<g ref="char:EOLhyphen"/>mons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate,</hi> 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93650:2"/>
+            <pb facs="tcp:93650:2"/>
+            <head>TO THE READERS.</head>
+            <opener>
+               <salute>Readers,</salute>
+            </opener>
+            <p>VVHoſo ſhall read this ſame', let meekneſs and mo<g ref="char:EOLhyphen"/>deration guide you, and do not reject nor diſre<g ref="char:EOLhyphen"/>gard that which you have not proved and tryed, leſt you ſpeak evil of the the things you know not; but try it by that which will render every thing as it is, which leads to equity, and to do as you would be done unto, ſuch whoſe hearts are honeſt, and do deſire to live to God, if they did but know the truth, whoſe breathing is after righteouſneſs, ſuch may receive ſatisfaction, who ſhall receive the truth in the love thereof; but for ſcoffers and ſcorners, I take little notice of, whoſe folly is manifeſt to the ſober-minded. That which my ſoul longeth for, is, To ſee righteouſneſs eſtabliſhed in the Earth, that Juſtice and Equity might ſtream forth as a River; I having been preſſed in ſpirit thereunto, have writ<g ref="char:EOLhyphen"/>ten this, that I might have the anſwer of a good conſcience with the Lord, unto whom all muſt give an account, vvho will reward every one according to their works, and herein is my love reached forth to others, that they may turn to the light, that from the Lord God they may receive refreſh<g ref="char:EOLhyphen"/>ment, and find ſatisfaction, as I have done; To whom be praiſe and Dominion for ever, who hath counted me wor<g ref="char:EOLhyphen"/>thy to ſuffer for the teſtimony of his glorious Truth.</p>
+            <closer>
+               <signed>E. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:93650:3"/>
+            <head>THE <hi>TR<g ref="char:V">Ʋ</g>TH</hi> of <hi>GOD</hi> CLEARED, And above the DECEIT Advanced, <hi>&amp;c.</hi>
+            </head>
+            <p>LET all fleſh be ſilent before the Lord God for ever, who is appeared in the Riches of his love, and is be<g ref="char:EOLhyphen"/>come the Teacher of his people himſelf, who hath gi<g ref="char:EOLhyphen"/>ven his Son for a Covenant of Light, and for Salvation to the ends of the Earth, who is the Light of the world, and lighteth every man that cometh into the world, the end is, that all men through him might believe.</p>
+            <p>And know this of a truth, all that ſhall read the ſame, that there is no other way that leads to God, but by taking heed to the Light which Chriſt hath enlightned ye withall, to be guided by it alone; this is that which <hi>Paul</hi> teſtified of, who (ſpeaking of them which held the truth in unrighteouſneſs) ſaid,<note place="margin">Rom. 1.18, 29. Tit. 3.11, 12. 2 Pet. 1.18, 19, 20.</note> 
+               <hi>That which may be knowne of God, is manifeſt in them, for God hath ſhewed it unto them;</hi> and this is that Grace of God which hath appeared unto all men, which taught the Saints to deny ungodlineſs and worldly luſts, and to live ſo<g ref="char:EOLhyphen"/>berly, righteouſly, and godly in this preſent world; and the ſure VVord of Propheſie which <hi>Peter</hi> declared of, is the ſame, unto which you do well to <hi>take</hi> heed, until the day dawn, and the day-ſtar ariſe in your hearts; and by this the ſure Foundation may be known, and not by any other way, even the Rock upon which Chriſt ſaid he would build his Church, againſt which the Gates of Hell ſhall not prevail; and no other Foundation can any man lay, but that which
+<pb n="3" facs="tcp:93650:3"/>is laid already; The Lord ſaid, <hi>I will lay in Sion for a Fonnda<g ref="char:EOLhyphen"/>tion,</hi>
+               <note place="margin">Iſa. 28.16</note> 
+               <hi>a tryed Stone, a precious Corner-Stone, a ſure Foundation;</hi> This is the Stone which is ſet at naught by you builders, (ſaid the Apoſtle) which is become the head of the Corner, Chriſt the Light of the World was ſet at naught by the builders in the Apoſtles time, and ſo is he ſet at naught by the builders in this age, who ſtumble at the Light, and ſay it is not ſuffi<g ref="char:EOLhyphen"/>cient to lead to God, and call it a natural Light, and ſo ſhew that they are in the ſame ignorance, and darkneſs, and blind<g ref="char:EOLhyphen"/>neſs, as others were in before, who ſtumbled at the Light. This is him which the Scriptures declare of,<note place="margin">Joh. 1.10, 11, 12.</note> 
+               <hi>Who came into the World, and the World was made by him, and the World knew him not; he came unto his own, and his own received him not; but to as many as received him, to them he gave Power to become the ſons of God.</hi> Read and underſtand, every one, with the Light which Chriſt hath enlightned you withall, and conſider in the fear of the Lord, for it is an earneſt thing; Who can ſay that there is not ſomething in them which calls to purity and holineſs, and to walk blame<g ref="char:EOLhyphen"/>leſly before the Lord, which never conſented to your evil deeds, but always did witneſs againſt them, and let you ſee that you ſhould not do ſo: Therefore all that ſhall read this, be ſatisfied herein, that this is the manifeſtation of the Spi<g ref="char:EOLhyphen"/>rit, which is given to every man to profit withall; and the not taking heed to it, is the cauſe of condemnation.</p>
+            <p>Therefore hear this, and know ye aſſuredly, (all ye that breath after the living God) that the Way which leads ro him is nigh you, and the Way is the ſame now, as ever was in all generations, and Chriſt is the ſame yeſterday, to day, and for ever, vvho hath inlightned every man that cometh into the World vvith the true Light; this vvas the Rock that followed the children of <hi>Iſrael</hi> in the Wilderneſs; and the Spirit of Chriſt was in the Prophets, who teſtified before<g ref="char:EOLhyphen"/>hand of the ſufferings of Chriſt, and of the glory that ſhould follow: <hi>Moſes</hi> the Servant of the Lord ſaid to the children of <hi>Iſrael, This Commandment which I command thee this day, is not hidden from thee, neither is it far off; but</hi> (ſaith he) <hi>the
+<pb n="4" facs="tcp:93650:4"/>Word is nigh thee in thy mouth and in thy heart, that thou maiſt do it, Deut.</hi> 30.11, 12, 13, 14, 15, 16. And the Apoſtle ſaid, <hi>The Word is nigh thee, in thy mouth, and in thy heart, that is, the Word of Faith which we preach, Rom.</hi> 10.5, 6, 7, 8. Chriſt ſaid, <hi>The Kingdom of God cometh not with obſervation; neither ſhall they ſay, Lo here, or lo there; for behold, the Kingdom of God is within you;</hi> and <hi>John</hi> ſaid, <hi>The Anncinting abideth in you, and you need not that any man teach you, but as the ſame Annointing teacheth you, and is truth, and is no lye.</hi>
+            </p>
+            <p>Therefore all people, high and low, of all Degrees, take heed, and hearken diligently to the Light vvhich Chriſt hath enlightned you withall, that your ſouls may live; and learn of Chriſt to be meek and lowly in heart, that in him your peace may be, though in the World you may have tribula<g ref="char:EOLhyphen"/>tion; and be ye Followers of him, who for the joy that was ſet before him, endured the Croſs, and deſpiſed the ſhame, and is ſet down at the right hand of the Father; and regard not the reproaches that the World may caſt upon you for the ſake of Chriſt, but account it greater Riches then the Treaſures of <hi>Aegypt; Moſes</hi> choſe rather to ſuffer afflicti<g ref="char:EOLhyphen"/>on vvith the people of God, then to be counted the Son of <hi>Pharaohs</hi> Daughter; he choſe rather to ſuffer with them, then to injoy the pleaſures of ſin for a ſeaſon; for he had regard to the recompence of Reward. Therefore fear the Lord God, and come to repentance; forſake that which is evil, and follow that which is good, that the Wiſdom which is from above, you may receive, and be guided by it alone, which is pure, and peaceable, and gentle, and eaſie to be in<g ref="char:EOLhyphen"/>treated, ful of good Fruits, that you may know the Lord God to be your Teacher, &amp; his Law written in your hearts, &amp; his Spirit put in your inward parts; this is the Covenant vvhich the Lord ſaid he vvould make vvith the Houſe of <hi>Iſrael, Heb.</hi> 10.8. And ceaſe from following of ſuch as ſay they are Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, but are found to be out of his Doctrine, and in the ſteps of the falſe Prophets, who preach for hire, and divine for money, and are called of men Maſters, which Chriſt cryed vvo againſt; and he is the ſame for ever, and
+<pb n="5" facs="tcp:93650:4"/>the vvo is to ſuch now as are found in their ſtops which Chriſt cryed wo againſt, <hi>Matt.</hi> 23. if you vvould own Chriſt, then own his Words; but if you deny his Words, do you not deny him? Conſider, VVhy do you call him Lord, Lord, and do not the things which he commands? But by the pure Light of Chriſt which hath ſhined in our hearts, to give us the knowledge of the glory of God in the Face of Jeſus Chriſt, do we ſee them to be out of his Doctrine, and in the ſteps of the falſe Prophets, and therefore with the Light we cry vvo againſt them. Conſider; Did ever the Miniſters of Chriſt ſue men at the Law for Tythes, and recover trebble damages, as ſome of theſe have done, as may eaſily be pro<g ref="char:EOLhyphen"/>ved? VVas ever the Miniſtry of Chriſt attended vvith perſe<g ref="char:EOLhyphen"/>cution, as this is? VVas ever any ſent to priſon for ſpeaking in their Aſſemblies, or for asking a ſober queſtion? And do you believe that ſuch are Chriſtians that are ſtrikers, and fight<g ref="char:EOLhyphen"/>ers, and are ready to murther, vvho hale out of the Syna<g ref="char:EOLhyphen"/>gogues, and before Magiſtrates, ſuch vvhich the Lord doth ſend amongſt them? But Chriſts Words are fulfilled, vvho ſaid to his Diſciples, <hi>Ye ſhall be brought before Rulers for my ſake, for a teſtimony againſt them,</hi>
+               <note place="margin">Matth. 10.17, 18.</note> 
+               <hi>and they ſhall ſcourge you in their Synagogues, and ye ſhall be hated of all men for my Names ſake, but he that endures to the end, ſhall be ſaved;</hi> and in this have vve hope, and in him have vve peace, who is the Light of the World, and they who follow him ſhall not walk in darkneſs, but ſhall have the light of life: <hi>If our hope were in this life onely, we were of all men, moſt miſerable, who have no helper in the Earth, but in the Lord alone is our truſt; and the Lord is my portion, ſaith my ſoul, therefore will I trust in him; but the portion of the Beaſt, and the portion of the falſe Prophet, is in the Lake, where the fire is not quenched.</hi>
+            </p>
+            <p>Therefore all people which ſhall read this, be warned and fear the Lord God of Heaven and Earth who is the God, and changes not, who lives for ever; and take heed to the Light which the Son of God hath enlightned ye withall, that it may guide you in every thing; <hi>God, who at ſun<g ref="char:EOLhyphen"/>dry times, and in divers manners ſpake to our Fathers by the Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="6" facs="tcp:93650:5"/>hath in theſe last dayes ſpoken unto us by Son, who is the brightnuſs of his Fathers glory;</hi> Therefore hear him; this is that Prophet whom <hi>Moſes</hi> ſpoke of, whom God would raiſe up; and it ſhall come to paſs, that every one which will not hear that Prophet, ſhall be deſtroyed from amongſt the people. Now he that receives not the Light which Chriſt hath en<g ref="char:EOLhyphen"/>lightned him withall, he hears not this Prophet; and let ſuch read their portion, which is, To be deſtroyed from amongſt the people.</p>
+            <p>Therefore ſeek the Lord while he may be found; call up<g ref="char:EOLhyphen"/>on him while he is near; let the wicked forſake his Wayes, and the unrighteous man his thoughts, and let him return unto the Lord, and he will have mercy upon him, and to our God, for he will abundantly pardon him; obey the light of Chriſt in your conſciences, and kiſs the Son leſt he be an<g ref="char:EOLhyphen"/>gry, and ye periſh from the way when his Wrath is kindled but a little; bleſſed are all they that put their truſt in him. Wherefore repent and bring forth fruits to God; for the Lord will not be mocked; and know this, That ſuch as you ſowe, ſuch ſhall you reap; he that ſowes to the fleſh, ſhall of the fleſh reap corruption; and he that ſows to the ſpirit, ſhall of the ſpirit reap life everlaſting; the Axe is laid to the Root of the Tree, and every Tree which bringeth not forth good fruit, is to be hewn down, and caſt into the fire.</p>
+            <p>All who profeſs Chriſt, prieſts and people, may we reaſon with you, and try you by your fruits whether you do poſſeſs him? Have you learned of Chriſt to be meek and lowly? Have you learned of Chriſt to love your Enemies? Have you learned of Chriſt to bleſs them that curſe you, and to pray for them which deſpitefully uſe you, and intreat you? If you ſay you have, Then why doth perſecution attend your Miniſtry? VVhy do your Hearers offer violence to ſuch as the Lord ſends amongſt you, who offer no violence to them, but are as Lambs amongſt VVolves? Are they not through envy haled before Magiſtrates, and ſent to priſon, though they come in meekneſs, and in the fear of the Lord, to warn you of the evil you live in, that you might forſake
+<pb n="7" facs="tcp:93650:5"/>it and turn to God by repentance, the Scriptures declare that he that hates his Brother is a murderer; Chriſts com<g ref="char:EOLhyphen"/>mand is ſweare not at all. Do you &amp; your hearers obey him herein? clear your ſelves if you can, and becauſe of Oathes the land mourns; but ſurely the Lord will plead the cauſe of the Innocent, and ſave them that truſt in him, but it will go ill with them that gain-ſay the truth.</p>
+            <p>Search the Scriptures and ſee whether ever ſuch fruits did attend the Miniſters of Chriſt,<note place="margin">Rom. 8 36.37.</note> but for the ſake or Chriſt they ſuffered as it is written: <hi>For thy ſake we are killed all the day long, we are accounted as Sheep for the ſlaughter:</hi> But ſaid the Apoſtle; <hi>Who ſhall ſeperate us from the love of Chriſt; ſhall tribulation or diſtreſs, or perſecution, or famne,</hi>
+               <note place="margin">2 Cor. 6.4 5, 6, &amp;c.</note> 
+               <hi>or na<g ref="char:EOLhyphen"/>kedneſſe, or peril or ſword? Nay in all theſe things we are more then Gonquerers through him that loved us:</hi> They approved them<g ref="char:EOLhyphen"/>ſelves as the Miniſters of Chriſt in much patience, in afflicti<g ref="char:EOLhyphen"/>ons, in neceſſities, in diſtreſſes, in ſtripes, in impriſon<g ref="char:EOLhyphen"/>ments, in tumults, in labors, in watchings, in faſtings, &amp;c. And the Apoſtle ſaid, <hi>All that will live godly in Christ Jeſus ſhall ſuffer perſecution:</hi> Chriſt ſaid to his Diſciples, <hi>If the world hate you, you know it hated me before it hated you, if you were of the world the world would love his own, but becauſe you are not of the world, but I have choſen you out of the world, therefore the world hateth you:</hi> The Servant (ſaid He) <hi>is not greater then his Lord, if they have perſecuted me, they will al<g ref="char:EOLhyphen"/>ſo perſecute you, if they have kept my ſayings, they will keep yours alſo:</hi> But in him have we peace who ſaid; <hi>Bleſſed are they that are perſecuted for righteouſneſs ſake, for theirs is the kingdom of Heaven, Bleſſed are ye when men ſhall revile you and perſecute you, and ſay all manner of evil againſt you falſly for my ſake, rejoyce and be exceeding glad, for great is your re<g ref="char:EOLhyphen"/>ward in Heaven; for ſo perſecuted they the Prophets that were be<g ref="char:EOLhyphen"/>fore you:</hi> And others had tryals of cruel mockings, yea moreover of bonds and impriſonment; wherefore as the Apoſtle ſaid, <hi>Seeing we alſo are compaſſed about with ſo great a Cloud of witneſſes, let us lay aſide every weight, and the ſin that doth ſo eaſily beſet us, and let us run with patience the race
+<pb n="8" facs="tcp:93650:6"/>that is ſet before us, looking unto Jeſus the Author and finiſher of our faith Who for the joy that was ſet before him, endured the croſs, dispiſeing the ſhame, and is ſet down at the right hand of the Throne of God.</hi> Come you Profeſſors Teachers and People, may we reaſon with you and try you further whe<g ref="char:EOLhyphen"/>ther you be Poſſeſſors, what do you believe of them who put Chriſt to death, and yet builded up the Tombs of the Prophets, and garniſhed the Sepulchers of the righteous, and ſaid if they had been in the dayes of their Fathers they would not have been partakers with them in the blood of the Prophets;<note place="margin">Mat. 23.29.30, 31, 32, 33.</note> would not you have joyned with them in put<g ref="char:EOLhyphen"/>ing Chriſt to death; had you been in thoſe dayes? If you ſay you would not, who ſhall believe you, while envy and ha<g ref="char:EOLhyphen"/>tred and perſecution attends you, who perſecute him in his members, now where he is made manifeſt; therefore as Chriſt ſaid, <hi>Fill up then the meaſure of your Fathers, ye Ser<g ref="char:EOLhyphen"/>pents, ye generation of Vipers, how can ye eſcape the Damnati<g ref="char:EOLhyphen"/>on of Hell? what ever you profeſſe, though you may talk of the Scriptures, and Chriſts words, and the Prophets and Apoſt<g ref="char:EOLhyphen"/>les words, yet being found out of his Doctrine, and in the ſame nature as they were in, who put Christ and the Prophets to death, it is a ſure teſtimony that you doe not poſſeſs him.</hi>
+            </p>
+            <p>You that are wiſe and have an underſtanding beyond ma<g ref="char:EOLhyphen"/>ny, ſo that by your own naturall wiſdom and reaſon you may dive deeper into the knowledge of things then o<g ref="char:EOLhyphen"/>thers, yet ſtumble at the truth, and ſtumble at the light, by all your wiſdom you cannot find out the things of God, the reaſon is becauſe you are not turned to that which gives the knowledge thereof, which is the light, which Chriſt hath eulightned you withall, this is fooliſhneſſe to your wiſdom; but indeed this is it which leads to the true Heavenly wiſdom, he that hath an eare to hear let him hear it, and he that can receive it let him, all that ever yet knew the Lord ever ſince the world began, it was by taking heed to that which God had made manifeſt of himſelf in them, this is the light which ſhines in darkneſſe, and God
+<pb n="9" facs="tcp:93650:6"/>who commanded light to ſhine out of darkneſs, hath ſhined in our hearts, to give us the light of the knowledge of his glory in the face of Jeſus Chriſt, while you ſeek to know the Truth by Books and Authors, who were not come to that of God in them; your labour is in vain, it will profit you nothing; the Prophets and Apoſtles being come to this; the end of their Writing and Speaking was to bring others to the ſame, that is, The manifeſtation of the Spirit, which is given to every man to profit withall; hear what the Apo<g ref="char:EOLhyphen"/>ſtle ſaid, <hi>He that will be wiſe, let him become a fool, that he may be wiſe;</hi> and ſaid he, <hi>We are fools for Chriſt ſake.</hi> Therefore to the light which Chriſt hath enlightned you withall, turn your minds, and receive the kingdom of God as a little child, and be willing to learn of him, elſe you can<g ref="char:EOLhyphen"/>not enter therein; therefore to it incline your minds, that you may be made wiſe indeed: the Wiſdom of this World is fooliſhneſs with God; and they who are wiſe therein, their Wiſdom will fail them; the underſtanding of the prudent ſhall come to nought; the Lord will bring it to paſs: There<g ref="char:EOLhyphen"/>fore be content to be ſtript of that, and to part with that knowledge which you have not come rightly by, and wait at Wiſdoms Gate, to be inſtructed there; for whoſe findeth it, findeth life, and ſhall obtain favour of the Lord; but he that ſinneth againſt the Light, wrongeth his own ſoul, and all they who hate it, love death.</p>
+            <p>You Lawyers, take heed of ſelf-ends in all you do and do nothing contrary to the righteous Law of God, which is juſt and equal; but ſpeak the truth from your hearts, and do to others as you would be done unto; now if you act otherwiſe, he which ſearches the heart, and tryes the reins, knows it, who hath a Witneſs in you, which is pure, which is the light of Chriſt in your conſciences, which will be your condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>And all you who are in power to judge and determine of cauſes and controverſies between man and man, have no reſpect to any mans perſon, but let that which is juſt take place; and judge as you would be judged of the Lord, the
+<pb n="10" facs="tcp:93650:7"/>righteous judge of Heaven and Earth, before whom all muſt appear to receive according to the deeds done in the body, whether they be good, or whether they be evil. Therefore take heed to the Light which Chriſt the Son of God hath enlightned you withall, that you may know the Law of God written in your hearts, and the Lord God to be your Law<g ref="char:EOLhyphen"/>giver, you being ſubject to him alone, in every thing doing that which is juſt and equal, and as you would be done unto; and herein will be your peace, and the light of Chriſt in your conſciences will juſtifie you; but if you do otherwiſe, the light which lets you ſee it will be your condemnation.</p>
+            <p>Hear this you Profeſſors, Prieſts and People, The Fruits of the Spirit is, love, joy, long-ſuffering, forbearance, meekneſs, gentleneſs; and the like; and when I ſee theſe fruits proceed from you, I may have ſome ground to believe that you do poſſeſs what you profeſs; but while I find it otherwiſe, you being in envy, perſecution and ſtrife, it is a ſure evidence to me that you are out of the life of him whom you profeſs, though you may have the Prophets Words, and Chriſts Words to talk of, yet being found out of their practices, and in the ſame nature as they were which put the Prophets and Chriſt to death, it is a ſure teſtimony that you are out of the life which they were in; he that lives in envy, is in the na<g ref="char:EOLhyphen"/>ture which <hi>Cain</hi> was in, who ſlew his Brother; he that denies the light, is in that nature which <hi>Corah</hi> was in who gain-ſaid the truth, and was ſwallowed up of the Earth; and he that receives the VVages of unrighteouſneſs, is in the error which <hi>Balaam</hi> was in, who erred after it.</p>
+            <p>Therefore all who deſire to know the truth, and live there<g ref="char:EOLhyphen"/>in, and the VVorſhip which God accepts, who is a ſpirit, and muſt be worſhipped in ſpirit and in truth, look not for any other thing; but take heed to the Light which lets you ſee your evil deeds, that you may be guided thereby; loving it, this is the way which leads to life; but hating it, it will be your condemnation; and ſaid Chriſt, who is the ſame for e<g ref="char:EOLhyphen"/>ver, <hi>This is the condemnation, That Light is come into the world, &amp; men love darkneſs rather then the light, becauſe their deeds are
+<pb n="11" facs="tcp:93650:7"/>evil:</hi> Therefore to the Light take heed, and follow the ſame, and you ſhall not walk in darkneſs, but ſhall have the Light of Life.</p>
+            <p>And now you who are my Companions in tribulation, who are hated, and reproached, and perſecuted for the Truths ſake, whether by impriſonment, or otherwiſe, be faithful to the Lord in your ſeveral meaſures, and clear your conſciences to ſuch who live without the fear of God, and are found out of the Saints practices, as by the Lord you are required; and ſanctifie the Lord God in your hearts, and let him be your fear, and let him be your dread; and fear not the power of the Enemy, but be bold and valiant for the truth upon Earth, and follow Chriſt, who is our Leader, and the Captain of our Salvation, and lift up your Heads, for the day of your Redemption draweth nigh, and bleſſed are ye when men ſhall revile you, and perſecute you, and ſay all manner of evil againſt you falſly for the ſake of Chriſt, re<g ref="char:EOLhyphen"/>joice and be glad, for great is your reward in heaven.</p>
+            <p>And to the Lord God be glory, and honor, and thankſgi<g ref="char:EOLhyphen"/>ving in the Church of Chriſt for ever, who is appeared in the riches of his love, and is become the Teacher of his peo<g ref="char:EOLhyphen"/>ple himſelf; and let all Diſputers, and all fleſh be ſilent for ever, for he is found who could never be known by worldly wiſdom, who hath preſerved me in tumults, in bonds and impriſonments, and is become my ſupport and comforter, whoſe love I cannot expreſs, O that I may never forget the ſame.</p>
+            <div type="to_the_reader">
+               <pb n="12" facs="tcp:93650:8"/>
+               <head>Concerning the paſsages about my im<g ref="char:EOLhyphen"/>priſonment.</head>
+               <p>BEing moved by the Lord, I went to the Idols Temple, and continued there about an hour before the Prieſt had ended; and that I might give them no occaſion to ſay that what I did was done maliciouſly, or of purpoſe, or wil<g ref="char:EOLhyphen"/>fully, I forbore till all was ended by the Prieſt; for I was taught to be wiſe as a Serpent, and harmleſs as a Dove; and though I ſtood there peaceably, yet ſuffered I violence from ſome, who ſtruck off my Hat, and pluck't it off from my head, and threatned me with words; but I bore theſe things, and was willing to be eaſed of the burden that lay upon me; and when the Prieſt had done, I offered to get upon a Form; and being much preſſed in my Spirit thereunto, I ſaid I had ſomething from God to ſay or ſpeal, to them, and I was wil<g ref="char:EOLhyphen"/>ling that all might hear me, that I might be clear before the Lord God, concerning them; &amp; I ſpake as to all people, to fear the Lord God, and repent, but the violence of ſome againſt me was ſuch, that I could not clear my conſcience to them as I would have done; but as I had opportunity, I ſpoke to them in the fear of the Lord, that I might be clear before him; and being thruſt by the violence of the people into the Grave<g ref="char:EOLhyphen"/>yard, where they compaſſed me about, I ſpoke to them a<g ref="char:EOLhyphen"/>gain, and as I remember, the people were ſtill and quiet a<g ref="char:EOLhyphen"/>bout me, and I look't to ſee how I might get from them; but <hi>Richard Moore,</hi> and <hi>William Collins,</hi> who is a Parliament-Man, laid hands on me, and <hi>William Collins</hi> ſaid they would take an order with me for making a tumult; to which I an<g ref="char:EOLhyphen"/>ſwered, It was not me that made it, but it was them who of<g ref="char:EOLhyphen"/>fered violence to me; but he haled me away by violence from the people; I have not written this out of any envy that I bear to him for it; the Lord who knows my heart, is my Witneſs in this thing: I being come before <hi>Gervaſe Buck,</hi>
+                  <pb n="13" facs="tcp:93650:8"/>who is in Authority to do juſtice; but what juſtice he did me, let the Witneſs of God in his conſcience (which is juſt) and in the conſciences of all who ſhall hear thereof, judge, for I deſire no other Witneſs but that: He queſtioned me about my coming unto the Colledge, (as it is called) I an<g ref="char:EOLhyphen"/>ſwered, I came in obedience unto the Lord to warn the peo<g ref="char:EOLhyphen"/>ple to fear the Lord God, and repent: He ſaid, If I had a good exhortation, I ſhould take a better opportunity to ſpeak to them; but could I take a better opportunity to ſpeak to people, then when they were aſſembled together? And could the opportunity be at a better time then when the Lord required it? Let the truth judge herein. But up<g ref="char:EOLhyphen"/>on the Oath of one vvhoſe Name is <hi>Vrban Eyre,</hi> (vvhich Oath vvas but ſeemingly) vvas I ſent to priſon, vvhere I have continued near eleven Weeks, as by the Copy of the Mittimus vvill appear. This is (as near as I do remember) in part the truth of the paſſages about my impriſonment.</p>
+               <closer>
+                  <dateline>
+                     <hi>VVorceſter</hi>-Gaol, <date>the <hi>24th.</hi> of the <hi>10th.</hi> Month, 1657.</date>
+                  </dateline>
+                  <signed>Where I ſuffer for the Teſtimony of the Truth, <hi>Edw. Bourne.</hi>
+                  </signed>
+               </closer>
+               <trailer>THE END.</trailer>
+               <pb facs="tcp:93650:9"/>
+               <pb facs="tcp:93650:9" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
